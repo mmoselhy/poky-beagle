@@ -1,4 +1,4 @@
-This is the denzil branch of poky. and some changes have been made to compensate for errors during building process.
+This is the denzil branch of poky. some changes have been made to compensate for errors during building process.
 
 changes :
 added layers to support beagleboard.
