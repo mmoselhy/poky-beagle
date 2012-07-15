@@ -1,0 +1,5 @@
+This is the denzil branch of poky. and some changes have been made to compensate for errors during building process.
+
+changes :
+added layers to support beagleboard.
+u-boot errors found in meta/recipes-bsp/u-boot changed from 06 version to 12
